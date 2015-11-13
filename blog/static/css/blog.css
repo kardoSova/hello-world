@@ -19,7 +19,12 @@ body {
 	font-size: 36pt;
 	text-decoration: none;
 }
-
+a.top-menu {
+	    position: absolute;
+    top: 54px;
+    right: 15px;
+}
+}
 .content {
     margin-left: 40px;
 }
